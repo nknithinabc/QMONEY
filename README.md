@@ -1,2 +1,2 @@
 # QMONEY
-QMONEY - Stock Portfolio Mgmt Application
+QMONEY - Stock Portfolio Management Application
